@@ -1,7 +1,4 @@
 # Election_Analysis
-<<<<<<< HEAD
-git pull
-=======
 
 ## Project Overview
 
@@ -38,4 +35,4 @@ The analysis of the election demonstrates that:
 ## Challenge Overview
 
 ## Challenge Summary
->>>>>>> 9f2b275c48615b3e4ac047d17ab1e52243a3e1bb
+
