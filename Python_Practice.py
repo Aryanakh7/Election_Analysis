@@ -51,9 +51,7 @@
 #     print(x)
 #     x= x + 1
 
-# count = 7 
-# while count < 0:
-#     print("Hello World")
+
 
 # for county in counties:
 #     print('Jefferson')
