@@ -64,7 +64,7 @@ The purpose of this election audit analysis is to identify the distribution of v
 
 ![image](https://user-images.githubusercontent.com/75655852/104867857-d782ff00-590f-11eb-83a9-5d75c96e1eaa.png)
 
-### Conclusion 
+## Conclusion 
 
 The analysis above provides an overview which will help Seth and Tom by facilitating the submission of the election audit results to the election commission.
 This script can be integrated to any electoral process in order to determine different components of an election, such as: candidate name, candidate number and participation, county name, county participation, number of votes, district and national elements, volunteer involvement, parties represented, municipality participation, voting by anticipation, number of voting polls, winning candidates and percentages. 
